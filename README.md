@@ -1,10 +1,10 @@
-# Facebook O-Auth process has changed. Please see instructions sections for updated steps for getting Tinder authentication token. This tool should still work despite O-Auth changes.
+### Facebook O-Auth process has probably changed by now. But if it hasn't, please see instructions sections for updated steps for getting Tinder authentication token.
 
-# Tinder Crawler (From 2015)
+# Tinder Crawler
 Node.js app that uses the private Tinder API to fake authentication, spoof app location, and then crawl/download all profiles in the vicinity. 
 
 
-[![Maintenance Intended](http://maintained.tech/badge.svg)](http://maintained.tech/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ## Instructions
 
