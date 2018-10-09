@@ -6,3 +6,9 @@ results/tmp/*
 !results/tmp/placeholder.txt
 !results/master/5-5_v=0.json
 searchJSONProcessorUnitTest.js
+*.swp
+*.swo
+*.jpg
+**/*.DS_Store
+package-lock.json
+*.txt

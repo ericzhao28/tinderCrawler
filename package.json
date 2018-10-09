@@ -10,11 +10,13 @@
     "async": "^2.0.1",
     "fs": "0.0.2",
     "https": "^1.0.0",
+    "image-downloader": "^3.4.1",
     "prompt": "^1.0.0",
     "q": "^1.4.1",
     "querystring": "^0.2.0",
     "request": "^2.74.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "uuid": "^3.3.2"
   },
   "description": "# Tinder Crawler Node.js app that uses the private Tinder API to fake authentication, spoof app location, and then crawl/download all profiles in the vicinity.",
   "main": "index.js",
